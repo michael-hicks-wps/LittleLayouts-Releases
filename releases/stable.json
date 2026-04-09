@@ -1,6 +1,20 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "generatedAt": "2026-04-01T00:00:00Z",
-  "release": null
+  "generatedAt": "2026-04-09T03:17:19Z",
+  "release": {
+    "version": "1.0.0",
+    "tag": "v1.0.0",
+    "publishedAt": "2026-04-09T03:17:19Z",
+    "prerelease": false,
+    "notesUrl": "https://github.com/michael-hicks-wps/LittleLayouts-Releases/releases/tag/v1.0.0",
+    "assets": [
+      {
+        "name": "LittleLayouts-win-x64-1.0.0.zip",
+        "platform": "win-x64",
+        "url": "https://github.com/michael-hicks-wps/LittleLayouts-Releases/releases/download/v1.0.0/LittleLayouts-win-x64-1.0.0.zip",
+        "sha256": "91b719bd4c8434b70657f2ceb19152a74b830bbe190200c037a98659d037003a"
+      }
+    ]
+  }
 }
